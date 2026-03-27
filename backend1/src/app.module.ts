@@ -11,7 +11,7 @@ import { Product } from './product/entities/product.entity';
       port: 5432,
       username: "postgres",
       database: "microservice",
-      password: "7777",
+      password: "1111",
       entities: [Product],
       autoLoadEntities: true,
       synchronize: true,
